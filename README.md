@@ -1,5 +1,5 @@
 # Ecommerce-Data-analytics-project-new
-[01-11-2026 19:24] Untamed: 🛒 Retail Sales Analysis Dashboard | Python • MySQL • Power BI
+🛒 Retail Sales Analysis Dashboard | Python • MySQL • Power BI
 
 📌 Project Overview
 
